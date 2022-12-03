@@ -1,3 +1,5 @@
 Step 1: Choose Pizza Place.
+Step 1A:Call Pizza place.
 Step 2: Choose type of pizza.
+Step 2A: Choose toppings.
 Step 3: Order pizza.
